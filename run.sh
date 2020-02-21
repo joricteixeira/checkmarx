@@ -1,0 +1,2 @@
+#!/bin/bash
+/home/CxConsolePlugin/runCxConsole.sh Scan -ProjectName "$PROJECTNAME" -CxServer $CXSERVER -cxuser $CXUSER -cxpassword "$CXPASSWORD" -locationtype folder -locationpath . -preset "$PRESET" -v
